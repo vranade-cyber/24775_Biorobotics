@@ -137,4 +137,5 @@ def Move_to_target(start,end):
     
     print('Motion complete')
 
+# Test The code after attaching Servos.
 Move_to_target(0,12)
